@@ -10,6 +10,5 @@ Bu proje, **Q-Learning** kullanarak bir ajanın labirentte hedefe ulaşmasını 
 git clone https://github.com/yourusername/qlearning-maze.git
 cd qlearning-maze
 pip install -r requirements.txt
-<p align="center">
-  <img src="Figure_1.png alt="Maze Result" width="400"/>
-</p>
+![Maze Result](Figure_1.png)
+
